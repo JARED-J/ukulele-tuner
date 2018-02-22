@@ -1,0 +1,20 @@
+{
+  "name": "ukulele-tuner",
+  "version": "1.0.0",
+  "description": "ukulele-tuner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JARED-J/ukulele-tuner.git"
+  },
+  "keywords": [],
+  "author": "Jared Jackson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JARED-J/ukulele-tuner/issues"
+  },
+  "homepage": "https://github.com/JARED-J/ukulele-tuner#readme"
+}
